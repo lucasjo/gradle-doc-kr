@@ -1,8 +1,5 @@
-Working with existing builds
-============================
-
 Installing Guide
-----------------
+================
 
 #### 선제 조건
 
