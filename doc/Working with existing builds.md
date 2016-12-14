@@ -69,3 +69,13 @@ OS:           Windows 10 10.0 amd64
 ```
 
 #### JVM options
+
+Gradle 실행하기 위해 JVM 옵션은 환경변수를 통해서 설정이 가능하다.
+
+-	JAVA_OPTS
+-	GRADLE_OPTS
+
+```
+JAVA_OPTS는 다른 java application과 공유되는 환경 설정 이기때문에 Http_proxy 와 같은 설정을 할 수 있습니다.
+GRADLE_OPTS는 메모리 옵션을 설정 할 수 있습니다.
+```
